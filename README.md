@@ -209,3 +209,13 @@ https://www.youtube.com/watch?v=YCIbOdQLXk0
 ```
 Internal Server Error. No usar Gunicorn y lanzar el programa con python3 app.py en consola
 ```
+## Re lanzar
+```
+lanzar ./libros.sh
+```
+```
+cd project
+python3 -m venv venv
+source venv/bin/activate
+python3 app.py
+```
