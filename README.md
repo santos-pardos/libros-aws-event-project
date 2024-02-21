@@ -204,3 +204,8 @@ Este proyecto está licenciado bajo la [Licencia MIT](LICENSE). Consulta el arch
 ```
 https://www.youtube.com/watch?v=YCIbOdQLXk0
 ```
+
+## Errores
+```
+Internal Server Error. No usar Gunicorn y lanzar el programa con python3 app.py en consola
+```
